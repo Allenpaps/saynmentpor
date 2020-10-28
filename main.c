@@ -46,7 +46,6 @@ int main()
     int totalAmountOfDeposits;
     int totalAmountOfWithdrawals;
     int monthlyInterestRate;
-    int currentBalance;
 
     printf("Enter your starting balance: ");
     scanf("%d", &startingBalance);
